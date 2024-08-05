@@ -13,14 +13,14 @@ def print_lirik():
         ("Tapi dirimu tak pernah sadari",0.05),
         ("Aku yang jatuh cinta",0.10),
     ]
-    delays=[7.2, 3, 2.5, 7.5, 3.5, 4, 3.5, 3.5]
+    delay=[7.2, 3, 2.5, 7.5, 3.5, 4, 3.5, 3.5]
 
     for i, (line, char_delay) in enumerate(line):
         for char in line:
             print(char, end='')
             sys.stdout.flush()
             sleep(char_delay)
-        time.sleep(delays[i])
+        time.sleep(delay[i])
         print('')
 print_lirik()
 
