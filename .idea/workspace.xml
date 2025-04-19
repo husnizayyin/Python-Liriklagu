@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b43cc9f8-6fca-44fd-93f2-4d1f281e4661" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/extension_discovery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/extension_discovery/vs_code.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dart_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/debug_ios_bundle_flutter_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/debug_universal_framework.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/debug_unpack_ios.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/native_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/native_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/native_assets.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/flutter_build/dc381f815f302b86000ab672ce0ab778/outputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/android/zayn_ai_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/1bcac9131f185b5e8bd0f600f6ffecf8.cache.dill.track.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/a54b5e680aa300db8f61a3a71b82d41e/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/a54b5e680aa300db8f61a3a71b82d41e/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/a54b5e680aa300db8f61a3a71b82d41e/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/.last_build_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/Headers/Pods-Runner-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/Pods_Runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeRequirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeSignature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.abi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.swiftdoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.swiftmodule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerImageUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerMetaDataUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPhotoAssetUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPlugin_Test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTPHPickerSaveImageToPathOperation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/image_picker_ios-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/messages.g.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/image_picker_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/image_picker_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/image_picker_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Pods.build/Release-iphonesimulator/Flutter.build/dgph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Pods.build/Release-iphonesimulator/Pods-Runner.build/dgph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Pods.build/Release-iphonesimulator/Pods-RunnerTests.build/dgph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Pods.build/Release-iphonesimulator/image_picker_ios-image_picker_ios_privacy.build/dgph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/Pods.build/Release-iphonesimulator/image_picker_ios.build/dgph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Frameworks/image_picker_ios.framework/image_picker_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/build/ios/pod_inputs.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/.symlinks/plugins/image_picker_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Flutter/Flutter.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Local Podspecs/Flutter.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Local Podspecs/image_picker_ios.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Manifest.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/Flutter.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/Pods-Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/Pods-RunnerTests.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/image_picker_ios-image_picker_ios_privacy.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/image_picker_ios.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Pods.xcodeproj/xcuserdata/husni.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Flutter/Flutter.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Flutter/Flutter.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-input-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-output-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Profile-input-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Profile-output-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Release-input-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Release-output-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/ResourceBundle-image_picker_ios_privacy-image_picker_ios-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Pods/Target Support Files/image_picker_ios/image_picker_ios.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/macos/Flutter/ephemeral/Flutter-Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/macos/Flutter/ephemeral/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zayn_ai/zayn_ai.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "husnizayyin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/husnizayyin/Python-Liriklagu.git",
+    "accountId": "06ed7d85-bd02-4884-8e35-cb115b3fdbd1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2m4F8XCITlaPoI7huLFTPMPfvvP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "1f0da1db",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/husni/Documents/MyLearn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b43cc9f8-6fca-44fd-93f2-4d1f281e4661" name="Changes" comment="" />
+      <created>1726327782720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726327782720</updated>
+    </task>
+    <servers />
+  </component>
+</project>
